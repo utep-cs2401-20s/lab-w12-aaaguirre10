@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class myBinarySearchTreeNodeTester {
+public class myBinarySearchTreeTester {
 
     //tests if the general functionality of the insert method works
     //PASSED
